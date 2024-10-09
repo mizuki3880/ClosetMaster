@@ -1,0 +1,84 @@
+# Laravel & PHP
+/vendor/
+/node_modules/
+/public/hot
+/public/storage
+/storage/*.key
+/storage/app/public
+/storage/debugbar
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/testing
+/storage/framework/views
+/storage/logs
+.env
+.env.backup
+.env.local
+.env.development
+.env.production
+.env.testing
+Homestead.yaml
+Homestead.json
+.phpunit.result.cache
+
+# Laravel Mix
+/public/mix-manifest.json
+/public/css/*.css
+/public/js/*.js
+/public/js/*.map
+/public/css/*.map
+
+# IDEs and editors
+/.idea
+/.vscode
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# npm debug log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Composer vendor directory
+/vendor/
+
+# Node modules directory
+/node_modules/
+
+# Compiled CSS and JS files
+/public/css/app.css
+/public/js/app.js
+
+# Compiled assets
+/public/mix-manifest.json
+
+# Laravel specific files
+/storage/logs
+/storage/app/public
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/testing
+/storage/framework/views
+
+# Environment variables
+.env
+.env.*
+
+# IDE and editor specific files
+/.idea
+/.vscode
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# npm debug log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
